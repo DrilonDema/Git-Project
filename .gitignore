@@ -3,3 +3,5 @@ Logs/
     log.js
 bin/
 trash/
+bin1/
+    main.log
